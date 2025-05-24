@@ -1,0 +1,4 @@
+/test
+app.db
+__pycache__/
+.python-version
